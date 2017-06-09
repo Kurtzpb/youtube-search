@@ -1,0 +1,28 @@
+.input-form {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.input-field {
+    width: 350px;
+    height: 25px
+}
+
+.input-button {
+    height: 30px
+}
+
+.search-item {    
+    margin: auto;
+    width: 300px;
+    padding-top: 30px
+}
+
+.movie {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.home-page-link {
+    text-align: center;
+}
