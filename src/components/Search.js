@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { fetchMovies } from './../actions/fetchMovies.js';
-import { Redirect } from 'react-router-dom';
 
 let queryInput;
 
